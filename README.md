@@ -9,7 +9,6 @@ A fun app to explore zoo animals and learn their details.
 ## Tech Stack
 - HTML
 - CSS
-- JavaScript
 
 ## How to Run
 1. Clone this repo
